@@ -1,2 +1,4 @@
 # BIO-METRIC
-this is the project of Bio-metric attendance system.I hope this is good foreveryone
+This is the project of Bio-metric attendance system.
+This made a simple method for take attendance management system.
+This is fully based on python language enabled with the technology(Machine Learning)
